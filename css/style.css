@@ -1,0 +1,45 @@
+*{
+	font-family: 'Roboto Mono', monospace;
+}
+.table tr th{
+	background: #343A40;
+	color: white;
+}
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #555;
+    color: #fff;
+}
+#update{
+	background: #83D306;
+}
+#state{
+	background: #0C19CF;
+	color:white;
+}
+#confirmed{
+	background: #D60675;
+}
+#active{
+	background: #660099;
+	color: white;
+}
+#recovered{
+	background: #3FF508;
+}
+#deltarecovered{
+	background: #29A4F7;
+	color: white;
+}
+#deltaconfirmed{
+	background: #CC5D07;
+}
+#deaths{
+	background: #EF0C0F;
+	color: white;
+}
+#deltadeaths{
+	background: #F67578;
+}
